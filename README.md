@@ -1,10 +1,10 @@
 # PrivacyPal
 PrivacyPal, The tool for a secure social media account from snoopers.
 
-Ever had a jealous ex?
-Or an ex-friend that wants to make your life hell?
-Do you just want peace?
-But the person or persons are getting information about you even though your account is private? 
+Ever had a jealous ex?<br></br>
+Or an ex-friend that wants to make your life hell?<br></br>
+Do you just want peace?<br></br>
+But the person or persons are getting information about you even though your account is private?<br></br>
 
 This tool is aimed at internet privacy and making you feel comfortable online allowing you to be yourself and also having the peace of mind of knowing that what you do online is not being seen by certain people or having your content sent to other certain people.
 
